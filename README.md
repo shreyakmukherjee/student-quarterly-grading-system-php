@@ -73,7 +73,29 @@ Follow the steps below to set up the project on your local machine using **XAMPP
 
 
 ---
+## 🖼️ Interface Preview
 
+Below are some snapshots of the **Student Quarterly Grading System** in action:
+
+### 🔐 Login Page
+![Login Page](login-page.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 📝 Grade Entry Interface
+![Grade Entry](grade-entry.png)
+
+### 📝 Grade Entry Interface
+![Grade Entry](class-list.png)
+
+---
+
+## 🗄️ Database Sample View
+
+The database is managed using **phpMyAdmin**. Here's a glimpse of the structure and sample data:
+
+![Database View](database-view.png)
 
 ---
 
